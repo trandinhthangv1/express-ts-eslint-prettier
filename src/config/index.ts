@@ -1,1 +1,3 @@
-export default 1;
+const config = { message: 'success' };
+
+export default config;
