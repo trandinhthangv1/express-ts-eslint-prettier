@@ -4,7 +4,7 @@
     "node": true
   },
   "parser": "@typescript-eslint/parser",
-  "extends": ["airbnb-base", "airbnb-typescript/base"],
+  "extends": ["airbnb-base", "airbnb-typescript/base", "prettier"], // item sau override item truoc
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module",
